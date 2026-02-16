@@ -1,0 +1,5 @@
+pypdf2
+python-dotenv
+groq
+pytesseract
+pillow
