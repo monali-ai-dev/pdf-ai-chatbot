@@ -16,6 +16,7 @@ I built this project to better understand how real-world documents are processed
 - Generates AI-based answers from the document
 - Summarizes PDFs into key points
 - Runs completely in the terminal
+- Saves asked questions and AI-generated answers for reference
 --------
 
 ## Why I built this
@@ -74,7 +75,8 @@ This project helped me:
 
 - Upload a scanned PDF document  
 - Ask a question like: *"What is this document about?"*  
-- Receive an AI-generated answer based on the PDF content  
+- Receive an AI-generated answer based on the PDF content
+- Questions and answers are stored so users can review them later  
 --------
 ## What I learned from this project
 
